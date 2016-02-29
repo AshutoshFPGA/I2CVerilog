@@ -1,7 +1,7 @@
 `timescale 100ns / 10ns
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: 		Stevens Institute of Technology
+// Engineer: 		Ashutosh Gajankush
 // 
 // Create Date:    04:37:16 12/13/2015 
 // Design Name: 
