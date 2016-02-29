@@ -20,7 +20,7 @@
 
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 			Stevens Institute of Technology
-// Engineer: 			Amit Bhorania
+// Engineer: 			Ashutosh Gajankush
 // 
 // Create Date:    	15:12:48 12/10/2015 
 // Design Name: 
