@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 			Stevens Institute of Technology
-// Engineer: 			Amit Bhorania
+// Engineer: 			Ashutosh Gajankush
 // 
 // Create Date:    	14:12:38 11/16/2015 
 // Design Name: 
